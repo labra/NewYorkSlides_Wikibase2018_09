@@ -118,7 +118,7 @@ gw:P1057_chromosome {
 	
 gw:P2888_exact_match {
    ps:P2888 IRI ; # External IRI which describe the exact same concept [P2888]
-   prov:wasDerivedFrom @gw:miriam_reference OR @gw:ncbi-gene-reference ;
+   prov:wasDerivedFrom @gw:miriam_reference ;
 }
 
 gw:P2548_strand_orientation {	
